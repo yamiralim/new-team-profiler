@@ -23,3 +23,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 Image of the Team:
 
 ![image](https://user-images.githubusercontent.com/115921052/232636913-a5133cca-e042-409e-9b38-c25d6a102525.png)
+
+Video Link: 
+https://www.loom.com/share/e38b7353cec5456eb66eeddc9f63483f
