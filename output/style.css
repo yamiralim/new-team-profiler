@@ -1,0 +1,46 @@
+/* Apply box-sizing border-box to all elements */
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Define root variables */
+  :root {
+    --primary: rgb(65, 93, 153);
+    --secondary: white;
+  }
+  
+  /* Set font family for body */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Navbar styling */
+  #navbar {
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 50px;
+  }
+  
+  .navbar-brand {
+    font-size: 50px;
+  }
+  
+  /* Card header styling */
+  .card-header {
+    background-color: var(--primary);
+    color: var(--secondary);
+  }
+  
+  /* Card body styling */
+  .card-body {
+    background-color: var(--secondary);
+    color: var(--primary);
+  }
+  
+  /* Container styling */
+  .container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+  }
+  
